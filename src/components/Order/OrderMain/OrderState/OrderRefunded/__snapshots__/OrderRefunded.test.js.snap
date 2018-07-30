@@ -31,9 +31,9 @@ ShallowWrapper {
           <h5>
                     Your order has been refunded. Please contact support at
                     <a
-                              href="mailto:support@n.exchange"
+                              href="mailto:support@Jetstox"
                     >
-                              support@n.exchange
+                              support@Jetstox
                     </a>
                      for more information.
           </h5>
@@ -181,9 +181,9 @@ ShallowWrapper {
           "children": <h5>
             Your order has been refunded. Please contact support at
             <a
-                        href="mailto:support@n.exchange"
+                        href="mailto:support@Jetstox"
             >
-                        support@n.exchange
+                        support@Jetstox
             </a>
              for more information.
 </h5>,
@@ -198,9 +198,9 @@ ShallowWrapper {
             "children": Array [
               "Your order has been refunded. Please contact support at",
               <a
-                href="mailto:support@n.exchange"
+                href="mailto:support@Jetstox"
 >
-                support@n.exchange
+                support@Jetstox
 </a>,
               " for more information.",
             ],
@@ -213,11 +213,11 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "support@n.exchange",
-                "href": "mailto:support@n.exchange",
+                "children": "support@Jetstox",
+                "href": "mailto:support@Jetstox",
               },
               "ref": null,
-              "rendered": "support@n.exchange",
+              "rendered": "support@Jetstox",
               "type": "a",
             },
             " for more information.",
@@ -369,9 +369,9 @@ ShallowWrapper {
             <h5>
                         Your order has been refunded. Please contact support at
                         <a
-                                    href="mailto:support@n.exchange"
+                                    href="mailto:support@Jetstox"
                         >
-                                    support@n.exchange
+                                    support@Jetstox
                         </a>
                          for more information.
             </h5>
@@ -519,9 +519,9 @@ ShallowWrapper {
             "children": <h5>
               Your order has been refunded. Please contact support at
               <a
-                            href="mailto:support@n.exchange"
+                            href="mailto:support@Jetstox"
               >
-                            support@n.exchange
+                            support@Jetstox
               </a>
                for more information.
 </h5>,
@@ -536,9 +536,9 @@ ShallowWrapper {
               "children": Array [
                 "Your order has been refunded. Please contact support at",
                 <a
-                  href="mailto:support@n.exchange"
+                  href="mailto:support@Jetstox"
 >
-                  support@n.exchange
+                  support@Jetstox
 </a>,
                 " for more information.",
               ],
@@ -551,11 +551,11 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "support@n.exchange",
-                  "href": "mailto:support@n.exchange",
+                  "children": "support@Jetstox",
+                  "href": "mailto:support@Jetstox",
                 },
                 "ref": null,
-                "rendered": "support@n.exchange",
+                "rendered": "support@Jetstox",
                 "type": "a",
               },
               " for more information.",

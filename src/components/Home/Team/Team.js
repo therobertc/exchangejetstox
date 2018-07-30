@@ -13,7 +13,7 @@ const Team = () => (
               <h2 className="title">{t('about.teamtitle')}</h2>
             </div>
 
-            <TeamMember
+            //<TeamMember
               id="oleg"
               name="Oleg Belousov"
               country="IL"

@@ -43,9 +43,9 @@ ShallowWrapper {
                         refund.4
                          
                         <a
-                                href="mailto:support@n.exchange"
+                                href="mailto:support@Jetstox"
                         >
-                                support@n.exchange
+                                support@Jetstox
                         </a>
                 </p>
         </div>
@@ -77,9 +77,9 @@ ShallowWrapper {
                     refund.4
                      
                     <a
-                              href="mailto:support@n.exchange"
+                              href="mailto:support@Jetstox"
                     >
-                              support@n.exchange
+                              support@Jetstox
                     </a>
           </p>
 </div>,
@@ -108,9 +108,9 @@ ShallowWrapper {
               refund.4
                
               <a
-                            href="mailto:support@n.exchange"
+                            href="mailto:support@Jetstox"
               >
-                            support@n.exchange
+                            support@Jetstox
               </a>
 </p>,
           ],
@@ -171,9 +171,9 @@ ShallowWrapper {
                 "refund.4",
                 " ",
                 <a
-                  href="mailto:support@n.exchange"
+                  href="mailto:support@Jetstox"
 >
-                  support@n.exchange
+                  support@Jetstox
 </a>,
               ],
             },
@@ -186,11 +186,11 @@ ShallowWrapper {
                 "key": undefined,
                 "nodeType": "host",
                 "props": Object {
-                  "children": "support@n.exchange",
-                  "href": "mailto:support@n.exchange",
+                  "children": "support@Jetstox",
+                  "href": "mailto:support@Jetstox",
                 },
                 "ref": null,
-                "rendered": "support@n.exchange",
+                "rendered": "support@Jetstox",
                 "type": "a",
               },
             ],
@@ -231,9 +231,9 @@ ShallowWrapper {
                               refund.4
                                
                               <a
-                                        href="mailto:support@n.exchange"
+                                        href="mailto:support@Jetstox"
                               >
-                                        support@n.exchange
+                                        support@Jetstox
                               </a>
                     </p>
           </div>
@@ -265,9 +265,9 @@ ShallowWrapper {
                         refund.4
                          
                         <a
-                                    href="mailto:support@n.exchange"
+                                    href="mailto:support@Jetstox"
                         >
-                                    support@n.exchange
+                                    support@Jetstox
                         </a>
             </p>
 </div>,
@@ -296,9 +296,9 @@ ShallowWrapper {
                 refund.4
                  
                 <a
-                                href="mailto:support@n.exchange"
+                                href="mailto:support@Jetstox"
                 >
-                                support@n.exchange
+                                support@Jetstox
                 </a>
 </p>,
             ],
@@ -359,9 +359,9 @@ ShallowWrapper {
                   "refund.4",
                   " ",
                   <a
-                    href="mailto:support@n.exchange"
+                    href="mailto:support@Jetstox"
 >
-                    support@n.exchange
+                    support@Jetstox
 </a>,
                 ],
               },
@@ -374,11 +374,11 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "host",
                   "props": Object {
-                    "children": "support@n.exchange",
-                    "href": "mailto:support@n.exchange",
+                    "children": "support@Jetstox",
+                    "href": "mailto:support@Jetstox",
                   },
                   "ref": null,
-                  "rendered": "support@n.exchange",
+                  "rendered": "support@Jetstox",
                   "type": "a",
                 },
               ],

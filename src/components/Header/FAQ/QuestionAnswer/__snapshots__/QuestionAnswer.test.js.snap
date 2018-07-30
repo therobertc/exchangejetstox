@@ -16,9 +16,9 @@ ShallowWrapper {
             <p>
                 Missing your favorite coin? Let us know here: 
                 <a
-                    href="mailto:support@n.exchange"
+                    href="mailto:support@Jetstox"
                 >
-                    support@n.exchange
+                    support@Jetstox
                 </a>
                 .
             </p>
@@ -64,9 +64,9 @@ ShallowWrapper {
                     <p>
                               Missing your favorite coin? Let us know here: 
                               <a
-                                        href="mailto:support@n.exchange"
+                                        href="mailto:support@Jetstox"
                               >
-                                        support@n.exchange
+                                        support@Jetstox
                               </a>
                               .
                     </p>
@@ -128,9 +128,9 @@ ShallowWrapper {
             <p>
                         Missing your favorite coin? Let us know here: 
                         <a
-                                    href="mailto:support@n.exchange"
+                                    href="mailto:support@Jetstox"
                         >
-                                    support@n.exchange
+                                    support@Jetstox
                         </a>
                         .
             </p>
@@ -153,9 +153,9 @@ ShallowWrapper {
               <p>
                 Missing your favorite coin? Let us know here: 
                 <a
-                                href="mailto:support@n.exchange"
+                                href="mailto:support@Jetstox"
                 >
-                                support@n.exchange
+                                support@Jetstox
                 </a>
                 .
 </p>,
@@ -193,9 +193,9 @@ ShallowWrapper {
                 "children": Array [
                   "Missing your favorite coin? Let us know here: ",
                   <a
-                    href="mailto:support@n.exchange"
+                    href="mailto:support@Jetstox"
 >
-                    support@n.exchange
+                    support@Jetstox
 </a>,
                   ".",
                 ],
@@ -208,11 +208,11 @@ ShallowWrapper {
                   "key": undefined,
                   "nodeType": "host",
                   "props": Object {
-                    "children": "support@n.exchange",
-                    "href": "mailto:support@n.exchange",
+                    "children": "support@Jetstox",
+                    "href": "mailto:support@Jetstox",
                   },
                   "ref": null,
-                  "rendered": "support@n.exchange",
+                  "rendered": "support@Jetstox",
                   "type": "a",
                 },
                 ".",
@@ -267,9 +267,9 @@ ShallowWrapper {
                         <p>
                                     Missing your favorite coin? Let us know here: 
                                     <a
-                                                href="mailto:support@n.exchange"
+                                                href="mailto:support@Jetstox"
                                     >
-                                                support@n.exchange
+                                                support@Jetstox
                                     </a>
                                     .
                         </p>
@@ -331,9 +331,9 @@ ShallowWrapper {
               <p>
                             Missing your favorite coin? Let us know here: 
                             <a
-                                          href="mailto:support@n.exchange"
+                                          href="mailto:support@Jetstox"
                             >
-                                          support@n.exchange
+                                          support@Jetstox
                             </a>
                             .
               </p>
@@ -356,9 +356,9 @@ ShallowWrapper {
                 <p>
                   Missing your favorite coin? Let us know here: 
                   <a
-                                    href="mailto:support@n.exchange"
+                                    href="mailto:support@Jetstox"
                   >
-                                    support@n.exchange
+                                    support@Jetstox
                   </a>
                   .
 </p>,
@@ -396,9 +396,9 @@ ShallowWrapper {
                   "children": Array [
                     "Missing your favorite coin? Let us know here: ",
                     <a
-                      href="mailto:support@n.exchange"
+                      href="mailto:support@Jetstox"
 >
-                      support@n.exchange
+                      support@Jetstox
 </a>,
                     ".",
                   ],
@@ -411,11 +411,11 @@ ShallowWrapper {
                     "key": undefined,
                     "nodeType": "host",
                     "props": Object {
-                      "children": "support@n.exchange",
-                      "href": "mailto:support@n.exchange",
+                      "children": "support@Jetstox",
+                      "href": "mailto:support@Jetstox",
                     },
                     "ref": null,
-                    "rendered": "support@n.exchange",
+                    "rendered": "support@Jetstox",
                     "type": "a",
                   },
                   ".",

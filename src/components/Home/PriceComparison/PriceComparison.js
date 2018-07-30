@@ -30,7 +30,7 @@ class PriceComparison extends Component {
 
   showBestRate = (shapeshiftRate, changellyRate, nexchangeRate) => {
     let rates = [shapeshiftRate, changellyRate, nexchangeRate],
-      info = ['shapeshift', 'changelly', 'nexchange'];
+      info = ['shapeshift', 'changelly', 'jetstox'];
 
     let max = 0;
     let idx = null;
@@ -43,8 +43,8 @@ class PriceComparison extends Component {
     }
 
     let imgUrl = `/img/prices/${info[idx]}.png`;
-    if (info[idx] === 'nexchange') {
-      imgUrl = '/img/prices/logo-icon.svg';
+    if (info[idx] === 'jetstox') {
+      imgUrl = '/img/Jetstoxblacktext.png';
     }
 
     return <img className={`${info[idx]}-logo`} src={imgUrl} alt={`${info[idx]}`} />;
@@ -167,7 +167,7 @@ class PriceComparison extends Component {
                     <tr>
                       <th className="text-center" />
                       <th>
-                        <img className="nexchange-logo" src="/img/prices/logo-icon.svg" alt="N.exchange" />
+                        <img src="/img/Jetstoxblacktext.png" alt="Jetstox" />
                       </th>
                       <th>
                         <img src="/img/prices/shapeshift.png" alt="Shapeshift" />

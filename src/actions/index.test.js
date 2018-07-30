@@ -102,9 +102,9 @@ describe('actions', () => {
 
   //   jest.mock('Config', () => ({
   //     NAME: 'N.exchange2',
-  //     DOMAIN: 'https://n.exchange',
+  //     DOMAIN: 'https://Jetstox',
   //     API_BASE_URL: 'https://api.nexchange.io/en/api/v1',
-  //     SUPPORT_EMAIL: 'support@n.exchange',
+  //     SUPPORT_EMAIL: 'support@Jetstox',
   //     PRICE_FETCH_INTERVAL: 60000,
   //     ORDER_DETAILS_FETCH_INTERVAL: 20000,
   //     RECENT_ORDERS_INTERVAL: 20000,

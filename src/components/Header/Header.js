@@ -49,9 +49,9 @@ class Header extends Component {
                 <Link to="/">
                   <div className={styles['logo-container']}>
                     {window.location.pathname === '/' ? (
-                      <img src="/img/logo-white.svg" alt="Logo" data-test="logo" />
+                      <img src="/img/Jstx-Logo.png" alt="JETSTOX" data-test="logo" />
                     ) : (
-                      <img src="/img/logo.svg" alt="Logo" data-test="logo" />
+                      <img src="/img/jstxicon.png" alt="Logo" data-test="logo" />
                     )}
                   </div>
                 </Link>
@@ -111,7 +111,7 @@ class Header extends Component {
 
                   <li className={styles['ico-link']}>
                     <a
-                      href="https://n.exchange/ico"
+                      href="https://Jetstox/ico"
                       className={`${styles.btn} btn btn-block btn-primary`}
                       onClick={() => {
                         window.ga('send', 'event', {

@@ -104,7 +104,7 @@ describe('Header', () => {
         .dive()
         .find('[data-test="logo"]')
         .props().src
-    ).toBe('/img/logo-white.svg');
+    ).toBe('/img/JETSTOXWEBLOGO (1).png');
   });
 
   it('correct class and image is shown on non-home pages', () => {

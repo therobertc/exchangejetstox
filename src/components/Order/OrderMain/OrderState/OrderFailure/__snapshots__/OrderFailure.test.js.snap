@@ -29,9 +29,9 @@ ShallowWrapper {
           order.failure2
            
           <a
-                    href="mailto:support@n.exchange"
+                    href="mailto:support@Jetstox"
           >
-                    support@n.exchange
+                    support@Jetstox
                     .
           </a>
 </h5>,
@@ -62,9 +62,9 @@ ShallowWrapper {
             "order.failure2",
             " ",
             <a
-              href="mailto:support@n.exchange"
+              href="mailto:support@Jetstox"
 >
-              support@n.exchange
+              support@Jetstox
               .
 </a>,
           ],
@@ -79,14 +79,14 @@ ShallowWrapper {
             "nodeType": "host",
             "props": Object {
               "children": Array [
-                "support@n.exchange",
+                "support@Jetstox",
                 ".",
               ],
-              "href": "mailto:support@n.exchange",
+              "href": "mailto:support@Jetstox",
             },
             "ref": null,
             "rendered": Array [
-              "support@n.exchange",
+              "support@Jetstox",
               ".",
             ],
             "type": "a",
@@ -120,9 +120,9 @@ ShallowWrapper {
             order.failure2
              
             <a
-                        href="mailto:support@n.exchange"
+                        href="mailto:support@Jetstox"
             >
-                        support@n.exchange
+                        support@Jetstox
                         .
             </a>
 </h5>,
@@ -153,9 +153,9 @@ ShallowWrapper {
               "order.failure2",
               " ",
               <a
-                href="mailto:support@n.exchange"
+                href="mailto:support@Jetstox"
 >
-                support@n.exchange
+                support@Jetstox
                 .
 </a>,
             ],
@@ -170,14 +170,14 @@ ShallowWrapper {
               "nodeType": "host",
               "props": Object {
                 "children": Array [
-                  "support@n.exchange",
+                  "support@Jetstox",
                   ".",
                 ],
-                "href": "mailto:support@n.exchange",
+                "href": "mailto:support@Jetstox",
               },
               "ref": null,
               "rendered": Array [
-                "support@n.exchange",
+                "support@Jetstox",
                 ".",
               ],
               "type": "a",
